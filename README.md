@@ -173,7 +173,7 @@ While this model is not directly implemented in the TCP/IP networks that are mos
 
 The seven abstraction layers of the OSI model can be defined as follows, from top to bottom:
 
-![osi-model](github.com/rajeevcpr31/system-design/blob/main/diagrams/osi-model.png?raw=true)
+![osi-model](https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-I/osi-model/osi-model.png)
 
 ### Application
 
@@ -5694,4 +5694,5 @@ Here are the resources that were referenced while creating this course.
 - [VMWare Blogs](https://blogs.vmware.com/learning)
 
 _All the diagrams were made using [Excalidraw](https://excalidraw.com) and are available [here](https://github.com/rajeevcpr31/system-design/tree/main/diagrams)._
+
 
