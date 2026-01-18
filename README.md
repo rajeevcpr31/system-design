@@ -2,8 +2,6 @@
 
 Hey, welcome to the course. I hope this course provides a great learning experience.
 
-_This course is also available on my [website](https://karanpratapsingh.com/courses/system-design) and as an ebook on [leanpub](https://leanpub.com/systemdesign). Please leave a ⭐ as motivation if this was helpful!_
-
 # Table of contents
 
 - **Getting Started**
@@ -175,7 +173,7 @@ While this model is not directly implemented in the TCP/IP networks that are mos
 
 The seven abstraction layers of the OSI model can be defined as follows, from top to bottom:
 
-![osi-model](https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-I/osi-model/osi-model.png)
+![osi-model](github.com/rajeevcpr31/system-design/blob/main/diagrams/osi-model.png?raw=true)
 
 ### Application
 
@@ -5695,4 +5693,5 @@ Here are the resources that were referenced while creating this course.
 - [PagerDuty resources](https://www.pagerduty.com/resources)
 - [VMWare Blogs](https://blogs.vmware.com/learning)
 
-_All the diagrams were made using [Excalidraw](https://excalidraw.com) and are available [here](https://github.com/karanpratapsingh/system-design/tree/main/diagrams)._
+_All the diagrams were made using [Excalidraw](https://excalidraw.com) and are available [here](https://github.com/rajeevcpr31/system-design/tree/main/diagrams)._
+
